@@ -38,13 +38,14 @@ background-color: #2F2F2F;
 }
 
 .cover .content > h1 {
-  font-family: var(--Patua);
+;
   font-size: 6vmin;
+  font-family: var(--Patua)
   color: whitesmoke;
 }
 
 .cover .content > p {
-  font-family: var(--Rubik);
+ /*  font-family: var(--Rubik); */
   font-size: 2vmin;
   color: #e5e5e5;
 }
@@ -182,7 +183,7 @@ section {
 }
 
 header a {
-  font-family: var(--Sniglet-font);
+  ;
   font-size: 0.9em;
   color: whitesmoke;
 }
